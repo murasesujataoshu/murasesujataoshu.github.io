@@ -1,0 +1,44 @@
+#main {  
+  width: 60%;  
+  margin-top: auto;  
+  margin-right: auto;  
+  margin-bottom: auto;  
+  margin-left: auto;  
+  line-height: 180%;
+}
+
+#chosha {  
+  text-align: right;
+}
+
+.modoru {  
+  text-align: right;
+}
+
+.en {  
+  color: #009900;
+}
+
+.ul {  
+  text-decoration: underline;
+}
+
+body {  
+  background-color: #cc9999;  
+  background-image: url("TX_23.JPG");
+}
+
+.hilight {  
+  background-color: #cc6600;
+}
+
+h1 {  
+  padding-top: 1em;  
+  padding-right: 1em;  
+  padding-bottom: 1em;  
+  padding-left: 1em;
+}
+
+a {
+}
+

@@ -1,0 +1,148 @@
+#kyouten {  
+  border-top-style: none;  
+  border-right-style: none;  
+  border-bottom-style: none;  
+  border-left-style: none;  
+  width: 40%;  
+  float: left;  
+  font-size: 120%;  
+  text-align: left;  
+  line-height: 200%;  
+  margin-left: 8%;  
+  text-decoration: none;
+}
+
+#body {  
+  background-color: #ffffcc;
+}
+
+#ronsho {  
+  border-top-style: none;  
+  border-right-style: none;  
+  border-bottom-style: none;  
+  border-left-style: none;  
+  text-align: left;  
+  width: 40%;  
+  float: right;  
+  line-height: 200%;  
+  font-size: 120%;  
+  margin-right: 8%;  
+  text-decoration: none;
+}
+
+#bukki {  
+  background-position: left center;  
+  background-repeat: no-repeat;  
+  background-image: url("img/bukki_s.gif");  
+  background-color: #ffe57f;  
+  width: 80%;  
+  margin-right: auto;  
+  margin-left: auto;  
+  clear: both;
+}
+
+#image {  
+  margin-right: auto;  
+  margin-left: auto;  
+  width: 400px;  
+  height: 600px;
+}
+
+#footer {  
+  height: 80px;  
+  background-repeat: repeat-x;  
+  background-color: #ffcc99;  
+  line-height: 100%;  
+
+  font-size: 100%;  
+ 
+}
+
+#setumeibun {  
+  margin-right: auto;  
+  width: 70%;  
+  text-align: center;  
+  font-size: 17px;  
+  margin-left: auto;
+}
+
+.namo {  
+  width: 100%;  
+  margin-right: auto;  
+  margin-left: auto;
+  text-align: center;  
+  font-size: 17px;  
+
+}
+
+#headder-left {  
+  float: left;  
+  width: 48%;  
+  background-repeat: no-repeat;  
+  background-image: url("img/cosmos3.gif");  
+  height: 98px;
+}
+
+#headder-right {  
+  background-image: url("img/canation.gif");  
+  width: 48%;  
+  float: right;  
+  background-repeat: no-repeat;  
+  background-position: right top;  
+  height: 98px;
+}
+
+#yajirusi {
+  color: rgb(255, 102, 102)
+}
+
+#youtube {
+  color:red
+}
+
+#komoji {  
+  font-size: 80%;
+}
+
+h1 {  
+  padding-top: 0.5em;  
+  padding-right: 0.5em;  
+  padding-bottom: 0.5em;  
+  padding-left: 0.5em;  
+  text-align: center;
+}
+  
+        #shosinsha {
+        
+        background-color: #ffd700;
+        border: 2px solid gray;
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 30px;
+        padding: 20px;	
+        clear: both;
+        line-height: 150%;
+        font-size: 100%;  
+
+        
+      }
+
+#genten {  
+  text-align: left;
+}
+
+h2{
+	color:#300;
+	background-color: #9CC;
+	border: solid #333 thin;
+	border-radius:10px;
+}
+h3{
+	color:#300;
+	background-color: #CC9;
+	border: solid #333 thin;
+	border-radius:10px;
+}
+a:hover { color: rgb(202, 62, 41); background: #ffff00 }
+
